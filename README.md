@@ -1,5 +1,5 @@
 # Terminal_Coloring
-A Header only Lib to change the  text Foreground and Background.
+A Header only Lib to change the  text Foreground and Background. Made using Windows API for Windows OS and ANSI Escape Codes for Linux OS.
 
 It's for C++ only. You can easily modify it use it for C.
 
@@ -65,4 +65,9 @@ There's so much Color to Select From. See after using  the Scope resolution oper
 
 ---
 
+
+## Please provide any feedback/issues you've. 
+### If you can help improvve the Code please Do so. 😺
+
+## Hritik Shahi  ( ICFAI UNIVERSITY )
 

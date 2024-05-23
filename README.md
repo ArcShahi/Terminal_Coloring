@@ -6,15 +6,15 @@ It's for C++ only. You can easily modify it use it for C.
 
 ## How to Use ?
 
-1. Download this `terlor.hpp` file and add it to your working directory.
-2.  `#include "terlor.hpp"` into a translation unit.
+1. Download this `Terlor.hpp` file and add it to your working directory.
+2.  `#include "Terlor.hpp"` into a translation unit.
 
 Like this :
 
 ```cpp
 
 #include <iostream>
-#include "terlor.hpp"
+#include "Terlor.hpp"
 
 int main()
 {

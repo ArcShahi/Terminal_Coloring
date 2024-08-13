@@ -44,7 +44,8 @@ There's so much Color to Select From. See after using  the Scope resolution oper
 > [!WARNING]
 > Follow the Instruction Closely.
 
-
+>[!NOTE]
+>Color Intensity Might be Little Different for Different Teriminals
 
 ## Few Examples :
 

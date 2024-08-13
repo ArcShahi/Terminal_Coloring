@@ -75,6 +75,6 @@ There's so much Color to Select From. See after using  the Scope resolution oper
 ## Please provide any feedback/issues you've. 
 ### If you can help improvve the Code please Do so. 😺
 
-## Hritik Shahi  ( ICFAI UNIVERSITY )
-### TESTER  : ALOK RAJ ( ICFAI UNIVERSITY )
+## DEV. : Hritik Shahi  ( ICFAI UNIVERSITY )
+### TESTER  : Alok Raj ( ICFAI UNIVERSITY )
 

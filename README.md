@@ -35,9 +35,7 @@ There's so much Color to Select From. See after using  the Scope resolution oper
 - Visual Studio ✅
 - Dev C++   ✅
 - Sublime Test  ✅
-- Compiler Explorer ( Godbolt )  ✅
-  
-![image](https://github.com/ArcShahi/arc_color/assets/90377780/666947ce-f5f4-4520-a60f-f5c8257b8645)
+-JetBrains ✅
 
    Works here fine so should work with almost every IDEs 🔥
 
@@ -58,12 +56,19 @@ There's so much Color to Select From. See after using  the Scope resolution oper
 ![tree](https://github.com/ArcShahi/arc_color/assets/90377780/b37e0791-fd21-49ca-bf45-87e94eb68675)
 
 
-![image](https://github.com/ArcShahi/arc_color/assets/90377780/ad8e9475-2da3-4ea5-8380-bba47c1ee2e5)
+![image](https://github.com/user-attachments/assets/1f9c0903-1a1e-4519-8b8b-1134b8e85788)
+
 
 
 
 
 ---
+
+## CHANGES 
+
+- Added Linux and Mac OS Support
+- NOW Working on GCC x86
+- Optimizations
 
 
 ## Please provide any feedback/issues you've. 

@@ -52,7 +52,7 @@ There's so much Color to Select From. See after using  the Scope resolution oper
 
 
 
-![Loading_Bar](https://github.com/ArcShahi/arc_color/assets/90377780/4fb847dc-c8f0-48f6-9dde-da5185c1f9cd)
+![Loading_Bar](https://github.com/ArcShahi/arc_color/assets/90377780/4fb847dc-c8f0-48f6-9dde-da5185c1f9cd) [ Will Update Later ]
 
 
 ![tree](https://github.com/ArcShahi/arc_color/assets/90377780/b37e0791-fd21-49ca-bf45-87e94eb68675)

@@ -62,6 +62,9 @@ There's so much Color to Select From. See after using  the Scope resolution oper
 
 
 
+![image](https://github.com/user-attachments/assets/9d59d1d3-2067-4744-8314-598608bdf4dc)
+
+
 
 
 ---

@@ -49,7 +49,8 @@ enum class Color : WORD
 namespace arc
 {
      inline void setTextColor(Color color)
-     {
+     {  
+          // Windows Handler 
           HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
           if (hConsole != INVALID_HANDLE_VALUE) {
                SetConsoleTextAttribute(hConsole, static_cast<WORD>(color));

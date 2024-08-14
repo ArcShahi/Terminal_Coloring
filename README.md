@@ -32,7 +32,7 @@ int main()
 
    
 ```
-There's so much Color to Select From. See after using  the Scope resolution operator `Color::` or Look Directly in the Header File.
+There's so much Color to Select From. See after using  the Scope resolution operator `Color::` ,`BG::` or Look Directly in the Header File.
 
 AND LIKE THIS FOR LINUX OR MAC OS :
 

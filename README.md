@@ -25,8 +25,8 @@ int main()
 
 // To change Text Background
 
-       arc::setTextColor(Color::BG_CYAN);
-       std::cout<<"GREEN BG\n";
+       arc::setTextColor(BG::WHITE);
+       std::cout<<"WHITE BG\n";
        arc::resetColor();
 }
 
@@ -43,11 +43,14 @@ AND LIKE THIS FOR LINUX OR MAC OS :
 int main()
 {
 
-     arc::setTextColor(arc::GREEN);
-     std::cout<<"GREEN\n";
+     arc::setTextColor(Color::RED);
+     std::cout<<"RED\n";
      arc::resetColor();
 
 
+// SET  BACKGROUND COLOR
+
+    arc::setTextColor(BG::CYAN);
     std::cout<<"CYAN BG\n";
     arc::resetColor();
 ```
@@ -93,7 +96,8 @@ int main()
 ---
 
 ## CHANGE LOG V 3📑
-- Separated Foreground and Background Text Color Function on LINUX AND MAC OS.
+- Increased Readability for Windows Functions
+- Fixed BG Color not Working for LINUX and MAC OS.
 - Added Linux and Mac OS Support
 - NOW Working on GCC x86
 - Optimizations

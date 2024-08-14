@@ -32,6 +32,8 @@ int main()
 
    
 ```
+There's so much Color to Select From. See after using  the Scope resolution operator `Color::` or Look Directly in the Header File.
+
 AND LIKE THIS FOR LINUX OR MAC OS :
 
 ```cpp
@@ -45,13 +47,11 @@ int main()
      std::cout<<"GREEN\n";
      arc::resetColor();
 
-// To change Text Background
 
-    arc::setBColor(arc::BG_CYAN);
     std::cout<<"CYAN BG\n";
     arc::resetColor();
 ```
-There's so much Color to Select From. See after using  the Scope resolution operator `Color::` or Look Directly in the Header File.
+
 
 ## Tested on IDEs: 🧑🏻‍💻
 
@@ -59,8 +59,7 @@ There's so much Color to Select From. See after using  the Scope resolution oper
 - Visual Studio ✅
 - Dev C++   ✅
 - Sublime Test  ✅
-  
--JetBrains ✅
+- JetBrains ✅
 
    Works here fine so should work with almost every IDEs 🔥
 
@@ -93,8 +92,8 @@ There's so much Color to Select From. See after using  the Scope resolution oper
 
 ---
 
-## CHANGE LOG V 2.3 📑
-
+## CHANGE LOG V 3📑
+- Separated Foreground and Background Text Color Function on LINUX AND MAC OS.
 - Added Linux and Mac OS Support
 - NOW Working on GCC x86
 - Optimizations

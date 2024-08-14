@@ -135,7 +135,7 @@ namespace arc
 
      constexpr const char* NoClr = "\033[0m";
 
-     inline void setConsoleColor(const char* fColor, const char* bColor = "\033[49m")
+     inline void setTextColor(const char* fColor, const char* bColor = "\033[49m")
      {
           std::cout << fColor << bColor;
      }

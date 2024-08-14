@@ -49,8 +49,8 @@ enum class Color : WORD
 namespace arc
 {
      inline void setTextColor(Color color)
-     {  
-          // Windows Handler 
+     {
+          // Windows Handler
           HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
           if (hConsole != INVALID_HANDLE_VALUE) {
                SetConsoleTextAttribute(hConsole, static_cast<WORD>(color));
@@ -135,9 +135,13 @@ namespace arc
 
      constexpr const char* NoClr = "\033[0m";
 
-     inline void setTextColor(const char* fColor, const char* bColor = "\033[49m")
+     inline void setTextColor(const char* fColor="\033[97m")
      {
-          std::cout << fColor << bColor;
+          std::cout << fColor;
+
+     inline void setBColor(const char* bColor = "\033[49m")
+     {
+            std::cout << bColor;
      }
 
      inline void resetColor()

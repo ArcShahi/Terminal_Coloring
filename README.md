@@ -9,7 +9,7 @@ It's for C++ only. You can easily modify it use it for C.
 1. Download this `Terlor.hpp` file and add it to your working directory.
 2.  `#include "Terlor.hpp"` into a translation unit.
 
-Like this :
+Like this on WINDOWS : 
 
 ```cpp
 
@@ -18,15 +18,39 @@ Like this :
 
 int main()
 {
-
+        // Change text Foreground
 	arc::setTextColor(Color::GREEN);
 	std::cout << "Colored text\n";
 	arc::resetColor();
 
+// To change Text Background
+
+       arc::setTextColor(Color::BG_CYAN);
+       std::cout<<"GREEN BG\n";
+       arc::resetColor();
 }
 
+   
 ```
+AND LIKE THIS FOR LINUX OR MAC OS :
 
+```cpp
+#include <iostream>
+#include "Terlor.hpp"
+
+int main()
+{
+
+     arc::setTextColor(arc::GREEN);
+     std::cout<<"GREEN\n";
+     arc::resetColor();
+
+// To change Text Background
+
+    arc::setBColor(arc::BG_CYAN);
+    std::cout<<"CYAN BG\n";
+    arc::resetColor();
+```
 There's so much Color to Select From. See after using  the Scope resolution operator `Color::` or Look Directly in the Header File.
 
 ## Tested on IDEs: 🧑🏻‍💻
